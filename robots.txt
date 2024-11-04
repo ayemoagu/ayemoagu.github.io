@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayemoagu.github.io/CnW/sitemap_index.txt
+Sitemap: https://ayemoagu.github.io/IrH/sitemap_index.txt
+Sitemap: https://ayemoagu.github.io/RFC/sitemap_index.txt
+Sitemap: https://ayemoagu.github.io/Ypj/sitemap_index.txt
